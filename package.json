@@ -1,0 +1,26 @@
+{
+  "name": "print-err",
+  "version": "0.8.0",
+  "description": "Pretty-print JS Error objects with full stack, recursive causes, and context props. Node CLI only.",
+  "type": "module",
+  "author": "Ben P.P. Tung",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benpptung/print-err.git"
+  },
+  "main": "./src/print-err.js",
+  "exports": {
+    ".": "./src/print-err.js"
+  },
+  "scripts": {
+    "test": "echo \"(no tests yet)\""
+  },
+  "devDependencies": {
+    "eslint": "9.39.1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  },
+  "types": "./print-err.d.ts"
+}

@@ -1,6 +1,6 @@
 ## print-err
 
-A small utility for printing **Err** objects in Node CLI.
+A small utility for printing the **Err** object in Node CLI.
 
 `Err` (from the [https://github.com/benpptung/err](https://github.com/benpptung/err) package) is an enriched error type that keeps:
 

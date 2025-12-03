@@ -1,7 +1,7 @@
 {
   "name": "print-err",
   "version": "0.8.0",
-  "description": "Pretty-print JS Error objects with full stack, recursive causes, and context props. Node CLI only.",
+  "description": "Pretty-print the Err object (from the 'err' package) with full stack and context props in Node CLI.",  
   "type": "module",
   "author": "Ben P.P. Tung",
   "license": "MIT",

@@ -13,10 +13,6 @@
   "exports": {
     ".": "./src/print-err.js"
   },
-  "scripts": {
-    "test": "echo \"(no tests yet)\"",
-    "prepare": "true"
-  },
   "devDependencies": {
     "eslint": "9.39.1"
   },

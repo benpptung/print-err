@@ -25,7 +25,7 @@ This is especially useful when throwing `Err` with context, and re-throwing it w
 ## Install
 
 ```sh
-pnpm add print-err
+pnpm add benpptung/print-err
 ```
 
 ---
